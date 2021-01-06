@@ -15,8 +15,8 @@ MonoBehaviour:
   material: {fileID: 2100000, guid: 3dab3b5abe0de9445b1a12c45b76af58, type: 2}
   mSprites:
   - name: 0_bg
-    x: 0
-    y: 135
+    x: 2048
+    y: 173
     width: 960
     height: 800
     borderLeft: 0
@@ -28,8 +28,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: 0_black
-    x: 929
-    y: 93
+    x: 3674
+    y: 903
     width: 10
     height: 10
     borderLeft: 1
@@ -41,8 +41,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: 1_bg2
-    x: 961
-    y: 472
+    x: 3009
+    y: 510
     width: 320
     height: 463
     borderLeft: 0
@@ -54,8 +54,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: 1_char_arm
-    x: 929
-    y: 104
+    x: 3693
+    y: 928
     width: 26
     height: 30
     borderLeft: 0
@@ -67,8 +67,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: 1_char_body
-    x: 166
-    y: 4
+    x: 3587
+    y: 938
     width: 52
     height: 35
     borderLeft: 0
@@ -80,8 +80,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: 1_char_face
-    x: 864
-    y: 84
+    x: 3522
+    y: 923
     width: 64
     height: 50
     borderLeft: 0
@@ -93,8 +93,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: 1_char_foot
-    x: 956
-    y: 102
+    x: 3720
+    y: 941
     width: 24
     height: 32
     borderLeft: 0
@@ -106,8 +106,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: 1_char_hat
-    x: 500
-    y: 5
+    x: 3330
+    y: 896
     width: 124
     height: 77
     borderLeft: 0
@@ -119,8 +119,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: 1_char_jaroo
-    x: 0
-    y: 27
+    x: 3455
+    y: 910
     width: 165
     height: 12
     borderLeft: 0
@@ -132,8 +132,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: 1_char_jarooTail
-    x: 797
-    y: 84
+    x: 3455
+    y: 923
     width: 66
     height: 50
     borderLeft: 0
@@ -145,8 +145,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: 2_misile
-    x: 219
-    y: 16
+    x: 3621
+    y: 914
     width: 71
     height: 23
     borderLeft: 0
@@ -158,8 +158,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: 3_enemy_pumkin
-    x: 961
-    y: 399
+    x: 3330
+    y: 823
     width: 71
     height: 72
     borderLeft: 0
@@ -171,8 +171,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: 3_pumpkin_hp
-    x: 280
-    y: 4
+    x: 3621
+    y: 907
     width: 52
     height: 6
     borderLeft: 0
@@ -184,8 +184,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: 3_pumpkin_hp_bg
-    x: 219
-    y: 1
+    x: 3640
+    y: 959
     width: 60
     height: 14
     borderLeft: 0
@@ -197,8 +197,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: 4_UI_GuageBar
-    x: 625
-    y: 65
+    x: 3455
+    y: 884
     width: 412
     height: 17
     borderLeft: 0
@@ -210,8 +210,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: 4_UI_GuageBG
-    x: 294
-    y: 83
+    x: 3303
+    y: 458
     width: 502
     height: 51
     borderLeft: 0
@@ -223,8 +223,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: 4_UI_SCORE
-    x: 294
-    y: 11
+    x: 3806
+    y: 902
     width: 205
     height: 71
     borderLeft: 0
@@ -236,8 +236,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: 5_Item_Star
-    x: 0
-    y: 1
+    x: 3693
+    y: 902
     width: 28
     height: 25
     borderLeft: 0
@@ -249,8 +249,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: BtnSource
-    x: 0
-    y: 40
+    x: 3009
+    y: 415
     width: 293
     height: 94
     borderLeft: 0
@@ -274,5 +274,18 @@ MonoBehaviour:
     paddingRight: 1
     paddingTop: 0
     paddingBottom: 936
+  - name: "\uBAA8\uBABD\uD134\uC5B4\uB77C\uC6B4\uB4DC"
+    x: 2234
+    y: 1377
+    width: 300
+    height: 350
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
   mPixelSize: 1
   mReplacement: {fileID: 0}

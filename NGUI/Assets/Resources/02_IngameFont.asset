@@ -17,7 +17,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: -0.45703125
-    width: 1
+    width: 0.5
     height: 1
   mFont:
     mSize: 30
